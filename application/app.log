@@ -7,3 +7,13 @@
 2026-05-17 15:52:19,280 | INFO | Password reset requested for exit
 2026-05-17 15:52:27,337 | INFO | Admin removed employee record id=0
 2026-05-17 15:52:33,779 | INFO | Admin removed employee record id=0
+2026-05-17 16:34:29,418 | INFO | Application started
+2026-05-17 16:34:58,434 | INFO | New registration attempt username=jaiyansh12 password=@Jaiyansh_12345 role=admin
+2026-05-17 16:35:50,041 | INFO | New registration attempt username=employee1 password=jay role=employee
+2026-05-17 16:37:00,577 | INFO | Application started
+2026-05-17 16:37:15,190 | INFO | New registration attempt username=jaiyansh password=@Jay_12345 role=admin
+2026-05-17 16:38:06,720 | INFO | Application started
+2026-05-17 16:38:13,544 | INFO | User jaiyansh12 logged in with token jaiyansh12-206263-6093
+2026-05-17 16:38:40,743 | INFO | Admin removed employee record id=0
+2026-05-17 16:39:15,049 | INFO | Admin removed employee record id=0
+2026-05-17 16:40:10,863 | INFO | User employee1 logged in with token employee1-511421-6210
