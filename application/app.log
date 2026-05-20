@@ -17,3 +17,10 @@
 2026-05-17 16:38:40,743 | INFO | Admin removed employee record id=0
 2026-05-17 16:39:15,049 | INFO | Admin removed employee record id=0
 2026-05-17 16:40:10,863 | INFO | User employee1 logged in with token employee1-511421-6210
+2026-05-20 21:15:21,942 | INFO | Application started
+2026-05-20 21:15:36,086 | INFO | New registration attempt username=jaiyansh1234 password=jaiya role=admin
+2026-05-20 21:15:43,723 | INFO | User jaiyansh1234 logged in with token jaiyansh1234-443373-1943
+2026-05-20 21:16:35,410 | INFO | Application started
+2026-05-20 21:16:46,233 | INFO | New registration attempt username=jay password=jay role=employee
+2026-05-20 21:16:50,221 | INFO | User jay logged in with token jay-995360-2010
+2026-05-20 21:17:04,423 | INFO | User jaiyansh1234 logged in with token jaiyansh1234-530274-2024
