@@ -34,7 +34,7 @@ The application was generated using AI-assisted development tools and manually r
 ## Project Structure
 
 ```text
-CodeAlpha_Secure_Coding_Review/
+Secure_Coding_Review/
 │
 ├── application/
 │   ├── auth.py
